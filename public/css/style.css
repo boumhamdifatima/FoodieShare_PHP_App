@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Redressed&display=swap");
+
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+/* reset */
+
+.merriweather {
+  font-family: "Merriweather", serif;
+}
+.redressed {
+  font-family: "Redressed", cursive;
+}
+.cc-navbar {
+  background-color: rgba(0, 0, 0, 0.55);
+  font-family: "Merriweather", serif;
+  box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.54);
+  z-index: 99;
+}
+.cc-navbar .nav-link {
+  border-bottom: 1px solid transparent;
+  transition: padding-bottom 0.4s ease-in-out, border-color 0.3s ease;
+}
+.cc-navbar .nav-link:hover {
+  padding-bottom: 20px;
+  border-color: var(--bs-teal);
+}
+.logo {
+  width: 150px;
+  height: 80px;
+}
+.banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/foodishescup.jpg) center center fixed no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+.banner-desc {
+  margin-top: 100px;
+  font-size: 80px;
+  font-weight: 400;
+  color: white;
+}
+.banner-accueil {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/repas1.jpg) center center fixed no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+
+/*System stars rating*/
+.progress-label-left {
+  float: left;
+  margin-right: 0.5em;
+  line-height: 1em;
+}
+.progress-label-right {
+  float: right;
+  margin-left: 0.3em;
+  line-height: 1em;
+}
+.star-light {
+  color: #e9ecef;
+}
+.star-dark {
+  color: yellow;
+}
+
+/** */
+.rating {
+  width: 120px;
+  height: 24px;
+  position: relative;
+  background-color: gray;
+}
+
+.rating progress.rating-bg {
+  -webkit-appearance: none;
+  -moz-appearence: none;
+  appearance: none;
+  border: none;
+  display: inline-block;
+  height: 24px;
+  width: 100%;
+  color: orange;
+}
+
+.rating progress.rating-bg::-webkit-progress-value {
+  background-color: orange;
+}
+
+.rating progress.rating-bg::-moz-progress-bar {
+  background-color: orange;
+}
+
+.rating svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/*System stars rating*/

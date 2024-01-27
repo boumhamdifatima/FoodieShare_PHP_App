@@ -1,0 +1,19 @@
+.banner-compte {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/fooddisheshumberg.jpg) center center fixed no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+.sidebar {
+  width: 280px;
+}
+.user-picture {
+  background: url(../img/user-pict.png);
+  background-size: cover;
+  width: 280px;
+  height: 200px;
+}
+.btn-hover:hover {
+  background-color: rgb(235, 237, 247);
+  opacity: 0.9;
+}

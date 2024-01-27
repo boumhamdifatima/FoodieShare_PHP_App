@@ -1,0 +1,36 @@
+.login-form {
+  width: 640px;
+  margin: 50px auto;
+}
+.login-form form {
+  margin-top: 50px;
+  margin-bottom: 15px;
+  background: #f7f7f7;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+}
+.login-form h2 {
+  margin: 0 0 15px;
+}
+.form-control,
+.btn {
+  min-height: 38px;
+  border-radius: 5px;
+}
+.btn {
+  font-size: 15px;
+  width: 100%;
+  font-weight: bold;
+}
+.banner-register {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/vegetable-skewer.jpg) center center fixed no-repeat;
+  background-size: cover;
+  height: 400px;
+}
+.banner-login {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/fooddishestomato.jpg) center center fixed no-repeat;
+  background-size: cover;
+  height: 400px;
+}

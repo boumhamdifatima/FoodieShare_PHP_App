@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1691624109,
+        "nom": "aaa",
+        "pseudo": "aaapseudo",
+        "email": "aaa@gmail.ca",
+        "password": "$2y$10$\/jIY5vdMBSxgRB4tDoe\/c.UdIjQ\/KOs1MVX.qOWc68\/v7OedDZBqe",
+        "ville": "quebec",
+        "preferences": [
+            "poisson",
+            "viande",
+            "poulet"
+        ]
+    },
+    {
+        "id": 1691626973,
+        "nom": "bbb nom",
+        "pseudo": "bbbpseudo",
+        "email": "bbb@gmail.com",
+        "password": "$2y$10$uD242D8kmiX.k2SLVHZLTOhzOgVUGAHbSCrN\/iw32wHH8bIbWJ67e",
+        "ville": "montreal",
+        "preferences": [
+            "vegetarien",
+            "viande"
+        ]
+    },
+    {
+        "id": 1691627642,
+        "nom": "f",
+        "pseudo": "fantommm",
+        "email": "f@gmail.ca",
+        "password": "$2y$10$BwU026FALWJZceMUe9\/dmulq0FMouiaN5lzGy4XXdAN5wSrganVv2",
+        "ville": "m",
+        "preferences": [
+            "vegetarien"
+        ]
+    },
+    {
+        "id": 1691627699,
+        "nom": "d",
+        "pseudo": "d",
+        "email": "d@gmao.com",
+        "password": "$2y$10$xROhBiAYDEKgIoaPBXXC0O5x2Xe46.pVEjOKBUZKc6AyB9SORcjT2",
+        "ville": "m",
+        "preferences": [
+            "vegetarien",
+            "poisson",
+            "viande",
+            "poulet"
+        ]
+    },
+    {
+        "id": 1691627896,
+        "nom": "e",
+        "pseudo": "eman",
+        "email": "e@gnn.com",
+        "password": "$2y$10$SI2MrgKhhfCUOZl6YwK95.wDluPPhjU.iKCV9wvb6drkxCkKQdTxC",
+        "ville": "m",
+        "preferences": [
+            "poisson",
+            "viande",
+            "poulet"
+        ]
+    },
+    {
+        "id": 1691689752,
+        "nom": "rrr",
+        "pseudo": "rrrprime",
+        "email": "rrr@gmail.com",
+        "password": "$2y$10$8xD029MBFP3xjQLCKqQLa.vJJibsTPAIb8Q4nxwz2lgqanXwTMYZS",
+        "ville": "m",
+        "preferences": [
+            "poisson",
+            "viande"
+        ]
+    },
+    {
+        "id": 1692672167,
+        "nom": "Sara emi",
+        "pseudo": "Sara",
+        "email": "sara@gmail.com",
+        "password": "$2y$10$uBH7N4bk5K0XhpN9p5IcCeAqV5DP.qyFmHP5Wcq884ZT39INyXLn6",
+        "ville": "montreal",
+        "preferences": [
+            "vegetarien",
+            "poisson"
+        ]
+    },
+    {
+        "id": 1692672297,
+        "nom": "laura sami",
+        "pseudo": "laura",
+        "email": "laura@gmail.ca",
+        "password": "$2y$10$0YWRV.gAsgwsld65ktn0k.yyZPgqjGnOAA\/KB5fggNrdYZhD6Nwte",
+        "ville": "montreal",
+        "preferences": [
+            "viande",
+            "poulet"
+        ]
+    },
+    {
+        "id": 1692672569,
+        "nom": "laura sam",
+        "pseudo": "samlaura",
+        "email": "sam@gmail.com",
+        "password": "$2y$10$TM3CKQz9eMfvYfBaPK4MLemMgWQhJjVzunqCur5dPoJQ7EuLJIrCS",
+        "ville": "montreal",
+        "preferences": [
+            "vegetarien"
+        ]
+    },
+    {
+        "id": 1692673253,
+        "nom": "ilyass",
+        "pseudo": "ilis",
+        "email": "ilis@gmail.ca",
+        "password": "$2y$10$PLAbFWnxi8pRu0ludRjo6ekwvrnp8ndsYUF132\/kcEFHKt4z\/f4cm",
+        "ville": "qc",
+        "preferences": [
+            "poisson",
+            "viande",
+            "poulet"
+        ]
+    },
+    {
+        "id": 1692714030,
+        "nom": "Amal",
+        "pseudo": "professeur",
+        "email": "amal@gmail.com",
+        "password": "$2y$10$SCDAxHml6Dn0bb61RppQcuu4\/zjkEp.Vh6B1feOUtgv33MzNY19Rm",
+        "ville": "Montreal",
+        "preferences": [
+            "vegetarien",
+            "poisson",
+            "viande",
+            "poulet"
+        ]
+    }
+]
